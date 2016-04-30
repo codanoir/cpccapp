@@ -21,4 +21,5 @@ h1 {
 
 .btn {
 	background-color:#82A1C3;
+	cursor: pointer;
 }
