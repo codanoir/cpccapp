@@ -19,9 +19,7 @@ h1 {
 	margin-top: 160px;
 }
 
-#container {
-	height:200px;
-	width: 500px;
+#button {
 	background-color:#82A1C3;
 	margin: 0 auto;
 }
