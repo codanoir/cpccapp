@@ -3,8 +3,11 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   text-align: center;
 background-color: #82A1C3;
-  
+}
 
+#btn {
+cursor: pointer;
+	
 }
 #container {
 	background-color:  #fff;
