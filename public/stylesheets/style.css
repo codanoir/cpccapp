@@ -10,6 +10,10 @@ background-color: #82A1C3;
 #btn {
 	cursor: pointer;
 }
+#btn:hover {
+background-color: #82A1C3;
+}
+
 #container {
 	background-color:  #fff;
 	padding-top: 200px;
