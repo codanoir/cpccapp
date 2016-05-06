@@ -1,12 +1,61 @@
 body {
   padding: 50px;
-  text-align: center;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: url("corelightlogo2.png") no-repeat;
-  background-position: center 20px;
+  text-align: center;
+background-color: #82A1C3;
+  
+
+}
+#container {
+	background-color:  #fff;
+	padding-top: 200px;
+	height: 700px;
+	width: 1000px;
+	margin: 0 auto;
+	
+	position: relative;
+	bottom: 200px;
+	padding: 0;
+	margin-top: 200px;
+	border-radius: 10px;
+	box-shadow: -10px 10px 5px #888888; 
+	
 }
 
-a {
+p img {
+position: absolute;
+right: 300px;
+top: 50px;
+margin: 0 auto;
+}
+
+
+#wrapper {
+	background-color: #82A1C3;
+	margin: 0 auto;
+	height: 250px;
+	width: 300px;
+	position: relative;
+	top: 250px;
+	bottom: 20px;
+	border-radius: 20px;
+	box-shadow: -5px 5px 5px #888888; 
+	
+}
+
+#border {
+	background-color: #fff;
+	width: 270px;
+	height: 210px;
+	position: relative;
+	margin: 0 auto;
+	top: 20px;
+	border-radius: 10px;
+	box-shadow: -3px 3px 3px #888888; 
+	
+}
+
+a:hover {
   color: #00B7FF;
 }
 
@@ -15,11 +64,21 @@ a {
 	text-align: center;
 }
 
-h1 {
-	margin-top: 160px;
+
+h2 {
+	margin-top: 200px;
+	padding-top: 20px;
 }
 
-.btn {
-	background-color:#82A1C3;
+li {
+	list-style: none;
+}
+
+#btnSubmit {
 	cursor: pointer;
+	
+}
+
+#validator {
+	margin-top: 20px;
 }
