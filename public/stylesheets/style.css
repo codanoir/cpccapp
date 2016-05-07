@@ -10,8 +10,9 @@ background-color: #82A1C3;
 #btn {
 	cursor: pointer;
 }
+
 #btn:hover {
-background-color: #82A1C3;
+	background-color: #82A1C3;
 }
 
 #container {
@@ -20,6 +21,7 @@ background-color: #82A1C3;
 	height: 700px;
 	width: 1000px;
 	margin: 0 auto;
+	
 	position: relative;
 	bottom: 200px;
 	padding: 0;
@@ -66,7 +68,7 @@ margin: 0 auto;
 #wrapper2 {
 	background-color: #82A1C3;
 	margin: 0 auto;
-	height: 250px;
+	height: 270px;
 	width: 600px;
 	position: relative;
 	top: 250px;
@@ -79,7 +81,7 @@ margin: 0 auto;
 #border2 {
 	background-color: #fff;
 	width: 560px;
-	height: 210px;
+	height: 230px;
 	position: relative;
 	margin: 0 auto;
 	top: 20px;
@@ -88,10 +90,6 @@ margin: 0 auto;
 	
 }
 
-
-a:hover {
-  color: #00B7FF;
-}
 
 #inputUserName, #inputUserEmail {
 	margin-right: 10px;
