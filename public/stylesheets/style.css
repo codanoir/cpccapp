@@ -20,7 +20,6 @@ background-color: #82A1C3;
 	height: 700px;
 	width: 1000px;
 	margin: 0 auto;
-	
 	position: relative;
 	bottom: 200px;
 	padding: 0;
@@ -53,7 +52,7 @@ margin: 0 auto;
 
 #border {
 	background-color: #fff;
-	width: 270px;
+	width: 260px;
 	height: 210px;
 	position: relative;
 	margin: 0 auto;
@@ -79,7 +78,7 @@ margin: 0 auto;
 
 #border2 {
 	background-color: #fff;
-	width: 570px;
+	width: 560px;
 	height: 210px;
 	position: relative;
 	margin: 0 auto;
